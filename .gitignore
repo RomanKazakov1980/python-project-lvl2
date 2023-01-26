@@ -1,3 +1,4 @@
-.venv/
-.idea/
-/.idea/misc.xml
+/.venv/
+/.idea/
+/dist/
+/.pytest_cache/
