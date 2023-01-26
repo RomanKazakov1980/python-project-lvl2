@@ -18,3 +18,5 @@ run:
 
 test:
 	poetry run pytest -vv
+
+check: test lint

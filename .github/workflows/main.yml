@@ -9,9 +9,9 @@ jobs:
       - name: Check repository code
         uses: actions/checkout@v3
       - name: Install dependencies
-        run:
+        run: |
           pip install poetry
           make install
-      - name: Run linter
+      - name: Run linter and pytest
         run: |
-          make lint
+          make check
