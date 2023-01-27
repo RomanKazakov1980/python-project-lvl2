@@ -1,4 +1,6 @@
-/.venv/
-/.idea/
-/dist/
-/.pytest_cache/
+.venv/
+.idea/
+dist/
+.pytest_cache/
+.coverage
+coverage.xml
