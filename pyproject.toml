@@ -15,6 +15,8 @@ python = "^3.8"
 flake8 = "^4.0.1"
 pytest-cov = {version = "^4.0.0", source = "pypi"}
 pytest = {version = "^7.2.1", source = "pypi"}
+pyyaml = "^6.0"
+asciinema = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 
