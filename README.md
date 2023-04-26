@@ -4,3 +4,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/f90fe500f7deddcce7ad/maintainability)](https://codeclimate.com/github/RomanKazakov1980/python-project-lvl2/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f90fe500f7deddcce7ad/test_coverage)](https://codeclimate.com/github/RomanKazakov1980/python-project-lvl2/test_coverage)
+
+## Demo
+### Compare two JSON files:
+[![asciicast](https://asciinema.org/a/556439.svg)](https://asciinema.org/a/556439)
